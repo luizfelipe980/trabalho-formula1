@@ -1,0 +1,67 @@
+.divmenu{
+    background-color: black;
+    position: fixed;
+    left: 0px;
+    top: 0%;
+    width: 100%;
+    height: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo1{
+    height: 60px;
+    margin: 5px 5px 5px 5px;
+}
+.logo2{
+    float: right;
+    height: 60px;
+    margin: 5px 5px 5px 5px;
+}
+.titulomenu{
+    position: fixed;
+    top: 3px;
+    color: white;
+    left: 500px;
+}
+.rbrhonda{
+    height: 15px;
+    margin: 5px 5px 5px 5px;
+}
+.astonmartimmercedes{
+    height: 21px;
+    margin: 5px 5px 5px 5px;
+}
+.mercedes{
+    height: 20px;
+    margin: 5px 5px 5px 5px;
+}
+.ferrari{
+    height: 17px;
+    margin: 5px 5px 5px 5px;
+}
+.mclarenmercedes{
+    height: 10px;
+    margin: 5px 5px 5px 5px;
+}
+.alpinerenault{
+    height: 20px;
+    margin: 5px 5px 5px 5px;
+}
+.hassferrari{
+    height: 20px;
+    margin: 5px 5px 5px 5px;
+}
+.alfaromeoferrari{
+    height: 15px;
+    margin: 5px 5px 5px 5px;
+}
+.alphaturimhonda{
+    height: 22px;
+    margin: 5px 5px 5px 5px;
+}
+.williansmercedes{
+    height: 25px;
+    margin: 5px 5px 5px 5px;
+}
+.tela{
+   background-color: bisque;
+}
